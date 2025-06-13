@@ -17,6 +17,7 @@ The AWS services used in this project are:
 
 📄 You can view and comment on the architecture diagram in editable format here:  
 [Click to open in Google Drive](https://drive.google.com/file/d/1gr_aIxh0K6-08lHekRbUCXhMLyUUTLVu/view?usp=sharing)
+![مشروعي رقم 2 drawio (1)](https://github.com/user-attachments/assets/7e4db36b-1d8e-4296-bfee-dcd218057045)
 
 ## Features
 - Upload images to the original S3 bucket.
